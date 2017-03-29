@@ -6,9 +6,7 @@ public class Mars {
 		// TODO Auto-generated method stub
 
 		
-		//teste
-		
-		int i;
+
 		
 	}
 
